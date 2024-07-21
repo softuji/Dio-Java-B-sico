@@ -11,7 +11,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da Conta: ");
         int numero = scanner.nextInt();
 
-        scanner.nextLine();
+
         System.out.println("Por favor, digite o seu primeiro e ultimo nome: ");
         String nomeCliente = scanner.nextLine().toUpperCase();
 
