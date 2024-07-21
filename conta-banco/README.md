@@ -1,18 +1,14 @@
-## Getting Started
+# Projeto ContaTerminal
+Tem como objetivo de exercitar o conteúdo de Sintaxe Java forncedio pelo DIO e aprender a elaborar projetos com inputs dos usuários pelo terminal.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Dificuldades enfrentadas:
+- se havia necessidade de deixar em UpperCase como demonstrado no exemplo;
 
-## Folder Structure
+Solução: `toUpperCase()`
+- formatação de entrada da variável nomeCliente com a adição de espaço.
 
-The workspace contains two folders by default, where:
+Solução: `scanner.nextLine()`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Site de referência que colaborou na solução está indicado abaixo:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Java: Como ler e apresentar dados com os comandos de entrada e saída](https://www.devmedia.com.br/java-como-ler-e-apresentar-dados-com-os-comandos-de-entrada-e-saida/22266)
